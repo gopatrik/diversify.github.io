@@ -2,7 +2,10 @@
   "teams": [
     {
       "name": "Digital Diamonds",
-      "members": [
+      "description": "Queue songs to any users Spotify Playlist via a tweet by @-ing the user, linking the song and adding #queuesong!",
+      "image": "/images/teams/digitaldiamonds.jpg",
+      "repo": "https://github.com/diversify/digitaldiamonds",
+      "members": ,
         {
           "name":"Elaine Janis Dagdayan",
           "email":"elaine.dagdayan@hyperisland.se",
